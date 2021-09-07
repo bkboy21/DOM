@@ -43,6 +43,10 @@
     background-color: var(--sub-menu-bg);
   }
 
+  h2 {
+    color: red;
+  }
+
 
 
   
